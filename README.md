@@ -1,4 +1,4 @@
-# business-process-reengineering
+# business-process-reengineering_Proximity Finance
 
 # Project: Business Analysis & Process Re-engineering (2019 - 2020)
 
